@@ -3,7 +3,7 @@ ORIG_PN="libXdamage"
 inherit cross xorg
 
 NAME="mingw64-i686-libXdamage"
-VERSION=1.1.3
+VERSION=1.1.4
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X.Org Xdamage library for Win32 toolchain"
